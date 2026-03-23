@@ -1,4 +1,4 @@
-# Retail Sales KPI Dashboard — Power BI Analysis
+# Retail Sales Performance Dashboard — KPI Analysis (Power BI)
 
 ## Overview
 
